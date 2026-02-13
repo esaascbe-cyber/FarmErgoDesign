@@ -2428,7 +2428,9 @@ with tab5:
 
         We further express our sincere gratitude to **Tamil Nadu Agricultural University (TNAU)** for providing the opportunity and institutional support to develop this web-based application for the benefit of designers, researchers, and students.  
 
-        We also acknowledge **Dr. Sukhbir Singh**, Project Coordinator, AICRP on ESAAS, **Dr. Vinothkumar V**, Ph.D. Scholar, **Er. Nithin Joel**, and **Er. Pranav Krishna**, Research Scholars, for their valuable assistance and contribution in the development of this web-based application.  
+        We also acknowledge **Dr. Sukhbir Singh**, Project Coordinator, AICRP on ESAAS, 
+        
+        **Dr. Vinothkumar V**, Ph.D. Scholar, **Er. Nithin Joel**, and **Er. Pranav Krishna**, Research Scholars, for their valuable assistance and contribution in the development of this web-based application.  
 
         The dataset is based on extensive surveys conducted by various research organizations under the **National Agricultural Research System (NARS)**. This pioneering work has greatly contributed to the ergonomic design and development of farm equipment suited to Indian agricultural workers.  
 
