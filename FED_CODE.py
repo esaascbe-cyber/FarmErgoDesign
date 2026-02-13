@@ -2421,32 +2421,32 @@ with tab5:
         st.markdown("""
         ### 🙏 Acknowledgement
 
-       We gratefully acknowledge the **Central Institute of Agricultural Engineering (CIAE)**, Bhopal, for compiling and publishing the valuable reference titled *“Anthropometric and Strength Data of Indian Agricultural Workers for Farm Equipment Design”*(2009)*.
-         
+        We gratefully acknowledge the **Central Institute of Agricultural Engineering (CIAE), Bhopal**, for compiling and publishing the valuable reference titled  
+        *“Anthropometric and Strength Data of Indian Agricultural Workers for Farm Equipment Design” (2009).*  
 
-        We also sincerely acknowledge **Dr. L. P. Gite, Former Project Coordinator, AICRP on ESA** and his team for his significant contribution in preparing and compiling the Anthropometric and Strength Data of Indian Agricultural Workers, which serves as the foundational source for this web application.
+        We also sincerely acknowledge **Dr. L. P. Gite**, Former Project Coordinator, AICRP on ESA, and his team for their significant contribution in preparing and compiling the Anthropometric and Strength Data of Indian Agricultural Workers, which serves as the foundational source for this web application.  
 
-        We further express our sincere gratitude to Tamil Nadu Agricultural University (TNAU) for providing the opportunity and institutional support to develop this web-based application for the benefit of designers, researchers and students.
+        We further express our sincere gratitude to **Tamil Nadu Agricultural University (TNAU)** for providing the opportunity and institutional support to develop this web-based application for the benefit of designers, researchers, and students.  
 
-       We also acknowledge Dr. Sukhbir Singh, Project Coordinator, AICRP on ESAAS, Dr. Vikumarkumar V, Ph.D. scholar, Er. Nithin Joel and Er. Pranav Krishna, Research scholars for their valuable assistance and contribution in the development of this web-based application
+        We also acknowledge **Dr. Sukhbir Singh**, Project Coordinator, AICRP on ESAAS, **Dr. Vinod**, Ph.D. Scholar, **Er. Nithin Joel**, and **Er. Pranav Krishna**, Research Scholars, for their valuable assistance and contribution in the development of this web-based application.  
 
-       The dataset is based on extensive surveys conducted by various research organizations under the *National Agricultural Research System (NARS)*. This pioneering work has greatly contributed to the ergonomic design and development of farm equipment suited to Indian agricultural workers.
+        The dataset is based on extensive surveys conducted by various research organizations under the **National Agricultural Research System (NARS)**. This pioneering work has greatly contributed to the ergonomic design and development of farm equipment suited to Indian agricultural workers.  
 
-       All rights and ownership of the original data remain with the respective copyright holder.
+        All rights and ownership of the original data remain with the respective copyright holder.
 
-      ### 🔬 Book Publication Details:
+        ### 📚 Book Publication Details
 
-        - Book No. CIAE/2009/4
-        - ISBN 978-81-909305-0-5
-        - Publisher: Central Institute of Agricultural Engineering (CIAE), Bhopal, India (2009)
+        - **Book No.:** CIAE/2009/4  
+        - **ISBN:** 978-81-909305-0-5  
+        - **Publisher:** Central Institute of Agricultural Engineering (CIAE), Bhopal, India (2009)
 
         ### 📧 Contact Information
 
-        For any information and suggestions, kindly contact at: 
-        TNAU Centre, Coimbatore
-        **Email:** [Email: esaas.cbe@tnau.ac.in](mailto:Email: esaas.cbe@tnau.ac.in)
+        For any information and suggestions, kindly contact:  
 
-       
+        **TNAU Centre, Coimbatore**  
+        **Email:** esaas.cbe@tnau.ac.in
+        """)
 
     with col2:
         st.markdown('''
@@ -2490,6 +2490,7 @@ with tab5:
         </div>
         ''', unsafe_allow_html=True)
 
+# Footer
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: #666; padding: 2rem;'>"
@@ -2497,3 +2498,4 @@ st.markdown(
     "</div>",
     unsafe_allow_html=True
 )
+
