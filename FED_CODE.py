@@ -2424,7 +2424,7 @@ with tab5:
         We gratefully acknowledge the **Central Institute of Agricultural Engineering (CIAE), Bhopal**, for compiling and publishing the valuable reference titled  
         *“Anthropometric and Strength Data of Indian Agricultural Workers for Farm Equipment Design” (2009).*  
 
-        We also sincerely acknowledge **Dr. L. P. Gite**, Former Project Coordinator, AICRP on ESA, and his team for their significant contribution in preparing and compiling the Anthropometric and Strength Data of Indian Agricultural Workers, which serves as the foundational source for this web application.  
+        We also sincerely acknowledge **Dr. L. P. Gite**, Former Project Coordinator, AICRP on ESA and his team for their significant contribution in preparing and compiling the Anthropometric and Strength Data of Indian Agricultural Workers, which serves as the foundational source for this web application.  
 
         We further express our sincere gratitude to **Tamil Nadu Agricultural University (TNAU)** for providing the opportunity and institutional support to develop this web-based application for the benefit of designers, researchers, and students.  
 
