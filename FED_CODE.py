@@ -2445,6 +2445,11 @@ with tab5:
         ### 📧 Contact Information
 
         For any information and suggestions, kindly contact:  
+        **Dr.R.Thiyagarajan**
+        Principal Investigator
+
+        **Dr.S.Thambidurai**
+        Co-Principal Investigator
 
         **TNAU Centre, Coimbatore**  
         **Email:** esaas.cbe@tnau.ac.in
